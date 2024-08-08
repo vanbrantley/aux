@@ -1,1 +1,4 @@
 .DS_Store
+backend/node_modules
+mobile-frontend/node_modules
+web-frontend/node_modules
